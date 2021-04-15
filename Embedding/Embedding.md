@@ -95,8 +95,8 @@ array([ 0.12328565,  0.01489553,  0.0020914, ...  0.13057308, -0.13572884,  0.04
 
 t-SNE 기법으로 100 차원의 단어 벡터를 2차원으로 줄여 시각화해본 결과 다음과 같은 것을 확인할 수 있었음.
 
-![t-SNE](<img width="1734" alt="t-SNE" src="https://user-images.githubusercontent.com/74139156/114917752-431e2f00-9e61-11eb-987c-eb334e4b1af0.png">
-)
+<img width="1734" alt="t-SNE" src="https://user-images.githubusercontent.com/74139156/114917752-431e2f00-9e61-11eb-987c-eb334e4b1af0.png">
+
 
 
 
