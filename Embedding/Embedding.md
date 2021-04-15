@@ -89,7 +89,7 @@ array([ 0.12328565,  0.01489553,  0.0020914, ...  0.13057308, -0.13572884,  0.04
 전기차와 가장 유사한 단어 top10 :  ['충전', '초고속', '기차', '시범', '피트', '사진', '가운데', '오후', '확대', '초고']
 ```
 
-![heatmap](<img width="667" alt="heatmap" src="https://user-images.githubusercontent.com/74139156/114917606-1cf88f00-9e61-11eb-9481-bb7c34759271.png">)
+<img width="667" alt="heatmap" src="https://user-images.githubusercontent.com/74139156/114917938-7bbe0880-9e61-11eb-9eda-51acc3f3135f.png">
 
 
 
