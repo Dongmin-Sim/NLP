@@ -89,14 +89,14 @@ array([ 0.12328565,  0.01489553,  0.0020914, ...  0.13057308, -0.13572884,  0.04
 전기차와 가장 유사한 단어 top10 :  ['충전', '초고속', '기차', '시범', '피트', '사진', '가운데', '오후', '확대', '초고']
 ```
 
-![heatmap](<img width="500" alt="heatmap" src="https://user-images.githubusercontent.com/74139156/114917606-1cf88f00-9e61-11eb-9481-bb7c34759271.png">
-)
+![heatmap](<img width="667" alt="heatmap" src="https://user-images.githubusercontent.com/74139156/114917606-1cf88f00-9e61-11eb-9481-bb7c34759271.png">)
 
 
 
 t-SNE 기법으로 100 차원의 단어 벡터를 2차원으로 줄여 시각화해본 결과 다음과 같은 것을 확인할 수 있었음.
 
-![t-SNE](/Users/coding_min/home/Github/NLP/Embedding/data/t-SNE.png)
+![t-SNE](<img width="1734" alt="t-SNE" src="https://user-images.githubusercontent.com/74139156/114917752-431e2f00-9e61-11eb-987c-eb334e4b1af0.png">
+)
 
 
 
